@@ -1,4 +1,4 @@
-
+-Some lost frontend code I wrote in 2019 when learning designing landing pages.
 -Simple landing page for a social network I was experimenting with in 2019.
 
 
