@@ -8,11 +8,12 @@
 -Some code maybe broken but I expect to maintain this soon.
 
 
-API used:
+API & tech used:
 
 
--Google App Scripts
+-Google App Scripts (https://github.com/googleworkspace/apps-script-samples)
 
 
--https://github.com/googleworkspace/apps-script-samples
+
+-Bootstrap (https://github.com/twbs/bootstrap)
 
